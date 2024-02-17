@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> </a>   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> </a>     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/> </a>
 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> </p>
 
