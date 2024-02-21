@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋, I'm Gopinath</h2>
+<h2 align="left">Hi I'm Gopinath</h2>
 <h4 align="left">A passionate python full stack developer from India</h4>
 <img align="right" width="420" height="290" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning 
 
+<img width="60" height="60" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/> <img width="150" height="60" src="https://ik.imagekit.io/laxaar/1686330454577mern-stack-01_2400x1200.png">
 - 📫 How to reach me **Gopinathpalanisamy8870@gmail.com**
 
 
