@@ -1,6 +1,6 @@
 <h2 align="left">Hi I'm Gopinath</h2>
 <h4 align="left">A passionate python full stack developer from India</h4>
-<img align="right" width="420" height="290" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="center" width="100%" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently learning 
 
